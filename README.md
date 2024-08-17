@@ -1,5 +1,5 @@
 # Laboratorio Computacion Grafica e Interaccion Humano-Computadora
-**Practica 1**
+**Practica 1:** Introducción a OpenGL
 **Nombre Completo:** Lopez Flores Diego Alberto
 **Número de Cuenta:** 315081143  
 **Grupo de Laboratorio:** 11  
