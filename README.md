@@ -1,5 +1,7 @@
 # Laboratorio Computacion Grafica e Interaccion Humano-Computadora
 
+**Practica:** 2: Proyecciones y puertos de vista. Transformaciones Geométricas 
+
 **Nombre Completo:** Lopez Flores Diego Alberto
 
 **Número de Cuenta:** 315081143  
